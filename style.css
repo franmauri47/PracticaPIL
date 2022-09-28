@@ -1,5 +1,9 @@
+
+/*Todo esto fue hecho antes de aplicar bootstrap*/
+
+
 *{
-    background: rgba(163, 163, 163, 0.623);
+    background: rgba(255, 232, 232, 0.849);
 }
 
 .tituloPrincipal{
@@ -29,6 +33,14 @@ p, strong, em{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+.imagen{
+    max-width: 500px;
+}
+
 #cuadroCesarMagnicidio{
     width: 100%;
+}
+
+#coliseo{
+    margin-bottom: 4rem;
 }
